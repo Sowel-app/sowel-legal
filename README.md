@@ -1,2 +1,0 @@
-# sowel-legal
-Privacy Policy
